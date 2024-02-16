@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Tamada4a
-- 👀 I’m interested in: development of mobile applications, computer game development, creation of huds(sites) for CS:GO, websites, Telegram API
-- 🤖 I have work skills with: Java, Kotlin, JS, HTML, CSS, Python, React, C++
-- 🌱 I’m currently learning: SourcePawn, Node, Telegram & VK API, Lua
-- 📫 How to reach me: 
-    Discord: Tamada#2134
-    Twitter: @Tamada4a
-    Instagram: @tamada4a
+- 👀 I’m interested in: development websites, creation of hud for CS2, Telegram API for file storage, mobile applications
+- 🤖 I have work skills with: Java, Kotlin, JS, HTML, CSS, Python, React, C++, Spring Boot, MongoDB and MySQL usage, database migration tools
+- 🌱 I’m currently learning: trying to be better
+- 📫 How to reach me:  
+    Discord: Tamada#2134  
+    Twitter: @Tamada4a  
+    Instagram: @tamada4a  
     VK: vk.com/tarnada
 
 <!---
