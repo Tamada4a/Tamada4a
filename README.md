@@ -3,7 +3,7 @@
 - 🤖 I have work skills with: Java, Kotlin, JS, HTML, CSS, Python, React, C++, Spring Boot, MongoDB and MySQL usage, database migration tools
 - 🌱 I’m currently learning: trying to be better
 - 📫 How to reach me:  
-    Discord: Tamada#2134 
+    Discord: Tamada#2134  
     VK: vk.com/tarnada
 
 <!---
